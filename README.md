@@ -23,7 +23,7 @@ Automatically install some web hacking/bug bounty tools for your VPS/hacking sta
 
 ```
 apt-get update -y && apt-get install git -y
-cd /tmp && git clone https://github.com/supr4s/WebHackingTools && cd WebHackingTools && ./installer.sh
+cd /tmp && git clone https://github.com/mw607/WebBugHuntingTools/ && cd WebBugHuntingTools && ./installer.sh
 ```
 ## 🐳 Docker
 
