@@ -27,24 +27,7 @@ cd /tmp && git clone https://github.com/mw607/WebBugHuntingTools/ && cd WebBugHu
 ```
 ## 🐳 Docker
 
-A Docker version is available, see [https://hub.docker.com/r/supr4s/webhackingtools](https://hub.docker.com/r/supr4s/webhackingtools)
-
-```
-docker pull supr4s/webhackingtools
-docker run --name webhackingtools -it supr4s/webhackingtools
-```
-
-To leave the container but leave it running:
-
-```
-ctrl + p and ctrl + q 
-```
-
-To re-attach to the container: 
-
-```
-docker attach WebBugHuntingTools
-```
+A Docker version is available, see https://tinyurl.com/24zpr623
 
 
 ## Available tools list
