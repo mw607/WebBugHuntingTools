@@ -43,7 +43,7 @@ ctrl + p and ctrl + q
 To re-attach to the container: 
 
 ```
-docker attach webhackingtools
+docker attach WebBugHuntingTools
 ```
 
 
